@@ -52,8 +52,10 @@ elements in that list (this will fail if the elements are changed, or the html c
 ##### Pre-requisites
 
 Geckodriver needs to be installed and in the path it can be downloaded from [here]( https://github.com/mozilla/geckodriver/releases).
-    - If using windows you can put it in the same folder as this one
-    - For linux you can store it in the `/usr/local/bin` folder. You will need to use `sudo` for this.
+
+- If using windows you can put it in the same folder as this one.
+- For linux you can store it in the `/usr/local/bin` folder. You will need to use `sudo` for this.
+
 Firefox needs to be installed it can be found [here](https://www.mozilla.org/en-US/firefox/).
 
 
